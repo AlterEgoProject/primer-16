@@ -2,7 +2,7 @@
 
 とりあえずの神経細胞モデル
 
-# neuron_model.pde
+# primer_16.pde
 メインファイル。ニューロンの数やセンサーへの入力の調整。
 
 # Neuron.pde
